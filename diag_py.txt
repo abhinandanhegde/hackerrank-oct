@@ -1,0 +1,11 @@
+﻿Python 3.14.3
+C:\Python314\python.exe
+C:\Users\abhinandan\AppData\Local\hermes\hermes-agent\venv\Scripts\python.exe
+C:\Users\abhinandan\AppData\Local\Programs\Python\Python312\python.exe
+C:\Users\abhinandan\AppData\Local\Microsoft\WindowsApps\python.exe
+
+Path                    
+----                    
+C:\Users\abhinandan\D...
+
+
